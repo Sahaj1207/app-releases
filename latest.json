@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "A guided first-run setup, faster update checks, and Run setup again in Settings.",
-  "pub_date": "2026-10-23T13:04:44.165Z",
+  "version": "0.2.3",
+  "notes": "HARIKA now remembers your conversations: ask what you talked about or decided on earlier days, see and erase memories in Settings > Memory, and get gentle heads-ups about your habits. Also: \"what's the latest news?\" gives today's top stories.",
+  "pub_date": "2026-10-23T14:05:38.653Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa2o2RWlQaXRrUVA4QlRaTmV4aEtGN0VNQ0gyVlllejNMNHBtV0wvdktqZTF2MGw0L2pGckdCMG84L0hxd3hKOGU4UnFzZ3g4TGNYOUxlc2x5QXlVWUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzYwNjgzCWZpbGU6SEFSSUtBXzAuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMgpiMGNOc3BkQmpIdE1ZUlVmODZMeXduSGdhRHRlQVd0dkZOWS9MMEpGRTZPTGFxQjFLUFByaUg1NXB4OFRzK0FDOTZQNWltcDRPZVZxUm1JZ1l5NG9Ddz09Cg==",
-      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.2/HARIKA_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa2w3Yms1cGgwcFdka0pSZGhGT05tWFEzVkJJbkl4UmdFellIMVZtNWxZeTZaTlZsR2twSXg0YXRTUkNtZnJnY3VBWFZ1SGd3SDVubnk3ZUl3bEFtdVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY0MzM4CWZpbGU6SEFSSUtBXzAuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMwo5NE9odGZpejBlTVVxbVhhOUpOeDl2U0JSOW1MbHphZnRrQzY4emJvV0N5cTI3YmM5UnNFcmZYL0RPYlJCWXo5RUo5UVRWamd4NjVkS1pXcGMrTC9CZz09Cg==",
+      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.3/HARIKA_0.2.3_x64-setup.exe"
     }
   }
 }
