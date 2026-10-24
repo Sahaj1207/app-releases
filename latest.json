@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "notes": "Smarter by default: if you've connected Groq, Gemini or OpenRouter, HARIKA uses it without you having to pick it in Settings, so greetings and chat are quicker and more natural. Brain settings no longer let a service be paired with a model it doesn't offer, and a wrong pair saved earlier fixes itself. HARIKA also no longer makes promises she isn't keeping.",
-  "pub_date": "2026-10-24T14:32:24.401Z",
+  "version": "0.2.7",
+  "notes": "Brain settings fix themselves: a model a service doesn't offer is replaced with one it does, so Settings always shows the model that really answers. If HARIKA's engine is still starting when you open the model list, you now see why and get a Try again button.",
+  "pub_date": "2026-10-24T15:17:31.602Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa3V6UUpVcndHWllIaDRtdHRLUHgyZmE4aXFvcVpGazBCMm5ha1JsZ3hZeHBEZTFxc2Y2bnZ1NUxINXNpYlR3eGtxWjVKWDZqcFlKNTMrbWVNMG0yTGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODUyMzQzCWZpbGU6SEFSSUtBXzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpWQXFhbEI1bFA2eVkxU0xoYVA5UnFULzFNbW0vTFZ0TGpLRlZkeS96czdFMVJFQTRPUGl4ejgvYUdmb3dDQlhORzJacmJHZzhCbFR0Z2tHSUdLWElCdz09Cg==",
-      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.6/HARIKA_0.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa3VPTWloQlhJVHF4cVNFSWp6eUk4a1piWlNmbWg3M0JmejA5aG9TWEhEckhMbTFNVW9lbmFRbnZQQlM5RHFKemlsVG10SDFUckw1OVBpU2lZVWtJS0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU1MDUxCWZpbGU6SEFSSUtBXzAuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNwpMOXFZeDdrRjdyNDBpVzYzRWV6TWNmU29FL2VSTWQzbFFVTDJJNlQxbUpBZ3QyQU40RWorS0s3aHhpTXNLampzVFZlNGFFc2JUUVIrTENKVmhuUm5EQT09Cg==",
+      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.7/HARIKA_0.2.7_x64-setup.exe"
     }
   }
 }
