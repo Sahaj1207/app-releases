@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "Security: only HARIKA's own windows can make her act, so a web page you visit can never trigger commands like Forget everything or start the microphone. Backups: when Groq and Gemini are both busy, OpenRouter's free model now answers.",
-  "pub_date": "2026-10-24T13:53:27.709Z",
+  "version": "0.2.6",
+  "notes": "Smarter by default: if you've connected Groq, Gemini or OpenRouter, HARIKA uses it without you having to pick it in Settings, so greetings and chat are quicker and more natural. Brain settings no longer let a service be paired with a model it doesn't offer, and a wrong pair saved earlier fixes itself. HARIKA also no longer makes promises she isn't keeping.",
+  "pub_date": "2026-10-24T14:32:24.401Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa3FuOXQ3dVhWQVNxQVdFUTRzRG4zRTlVRGQ2WGNRVURFQnlPM0JMZjhoU3NnODZnQXdtSzN5bnl4UklWZDVMUlpuZEVyb3JaWmdyZFExaW5OWG9RRndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODUwMDA3CWZpbGU6SEFSSUtBXzAuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNQozYzNwNGxLMHpHQ2JnSkY3b29TRFc1OVppL2RvUStiZm9ZdnlLb3E5T0l5RHNBVWQwZFZld0hIK0RaWENFUDNkeXkzMHltWEk3cUVFSU83Q3FPQ3lDQT09Cg==",
-      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.5/HARIKA_0.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa3V6UUpVcndHWllIaDRtdHRLUHgyZmE4aXFvcVpGazBCMm5ha1JsZ3hZeHBEZTFxc2Y2bnZ1NUxINXNpYlR3eGtxWjVKWDZqcFlKNTMrbWVNMG0yTGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODUyMzQzCWZpbGU6SEFSSUtBXzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpWQXFhbEI1bFA2eVkxU0xoYVA5UnFULzFNbW0vTFZ0TGpLRlZkeS96czdFMVJFQTRPUGl4ejgvYUdmb3dDQlhORzJacmJHZzhCbFR0Z2tHSUdLWElCdz09Cg==",
+      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.6/HARIKA_0.2.6_x64-setup.exe"
     }
   }
 }
