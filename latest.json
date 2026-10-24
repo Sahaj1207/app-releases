@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "HARIKA remembers your conversations and learns about you as you talk, greets you naturally, and her colours follow her mood. Say Hey HARIKA and the edges of your screen glow; keep talking without the wake word, or interrupt her. New: read and summarise your documents, tidy your Downloads, read your phone's notifications, play anything on Spotify, meeting links, an evening wrap-up, and reminders for when you talk to someone or get back. Smarter and more reliable understanding.",
-  "pub_date": "2026-10-24T08:26:22.275Z",
+  "version": "0.2.5",
+  "notes": "Security: only HARIKA's own windows can make her act, so a web page you visit can never trigger commands like Forget everything or start the microphone. Backups: when Groq and Gemini are both busy, OpenRouter's free model now answers.",
+  "pub_date": "2026-10-24T13:53:27.709Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa2gwaldLRXBKenRCNlNPMjNmVSttNVFwUTM2bERsT1Zoa1krMWFKZEtiOGpPOVcwUG1lT05ZV1B2Mk9VK0RQZENXVGdycUZ4aGRkR0ltMktKa3Y5R1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODMwMzgxCWZpbGU6SEFSSUtBXzAuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNApQYnRTMlFLL2JjakMzeU92V1prM01aRmh3eUtJNlMrUXo3dWNNb3pTbnQ0YWJHbWFETGlYN1c1T0N2L0ZGRHMwNVJ6OHh0RGhUVVRmZkRvc2p4MlJDUT09Cg==",
-      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.4/HARIKA_0.2.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa3FuOXQ3dVhWQVNxQVdFUTRzRG4zRTlVRGQ2WGNRVURFQnlPM0JMZjhoU3NnODZnQXdtSzN5bnl4UklWZDVMUlpuZEVyb3JaWmdyZFExaW5OWG9RRndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODUwMDA3CWZpbGU6SEFSSUtBXzAuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNQozYzNwNGxLMHpHQ2JnSkY3b29TRFc1OVppL2RvUStiZm9ZdnlLb3E5T0l5RHNBVWQwZFZld0hIK0RaWENFUDNkeXkzMHltWEk3cUVFSU83Q3FPQ3lDQT09Cg==",
+      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.5/HARIKA_0.2.5_x64-setup.exe"
     }
   }
 }
