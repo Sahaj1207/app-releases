@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "New: say \"play something I'd like\" and HARIKA picks music that fits your taste (she learns what you play; switch it off in Settings > Memory). \"Summarise this video\" sums up the YouTube video you're watching. Website tasks: \"add rice to my Amazon cart\", \"check the PS5's price on Flipkart\": she works in a browser window you can watch, never types passwords or card numbers, and asks before anything final. Add HARIKA's extension (Settings > Privacy > Your browser) to use your own Chrome or Edge. \"What can you do?\" now gets a short, friendly answer.",
-  "pub_date": "2026-10-25T10:27:51.472Z",
+  "version": "0.2.9",
+  "notes": "Meetings: say \"open my meeting\", \"join my call\" or the meeting's name and HARIKA opens its video call; the heads-up's \"Want me to open the meeting?\" now works until the meeting ends. HARIKA restarts her engine by herself if it ever stops. Replies no longer show technical process numbers.",
+  "pub_date": "2026-10-25T11:08:55.270Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa3VLVSsxUjVCRHNzOWJET1JGRE0vRTl0UVlJWDR3S2VNa2tDY21pcks4WnlTL3Z3QThyNFJTYmMvN3g4alV5bllQK1lCL0ZTOGIwNC8vY1pKUDZGeGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI0MDcxCWZpbGU6SEFSSUtBXzAuMi44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOAp5RHVzRkRFcEU5K2JaTkpUcEI2OWJMUlVGT3Vkc0dlTVZCMm9sNUJ0ZlNkWmRRUGZlMldOU1RhSjgyRXZPUmxkREcrL2MreDBCYlVpRVBTZ1JBK3pDQT09Cg==",
-      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.8/HARIKA_0.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzcrQWhoUVhwa3IzUlRRRkhDNEs2VDQ1VWZLSWc5OVFUQ1E3WG82R24wdGp5ZEdYQ2kwRlBmM01qZkhqekM1TVlpU1VoMEQybDJoK3NsVWZMUWMvRE52NFBzN2R4YndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI2NTM0CWZpbGU6SEFSSUtBXzAuMi45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOQptZ1hSRUQvTkt3T21yOUlMRHZtdUpFWEY0WGc1NWVzQVhTZ3lwTGc5NUFrL1Y5UWxsVWtVQUdiTUNSbXIzSHpnamNhSjgzVlJUTU5aWWk3MTF2dHJBdz09Cg==",
+      "url": "https://github.com/Sahaj1207/app-releases/releases/download/v0.2.9/HARIKA_0.2.9_x64-setup.exe"
     }
   }
 }
